@@ -1,0 +1,23 @@
+.app {
+  text-align: center;
+  margin-top: 50px;
+  font-family: Arial, sans-serif;
+}
+
+form {
+  display: inline-block;
+  text-align: left;
+}
+
+form div {
+  margin-bottom: 12px;
+}
+
+label {
+  margin-right: 8px;
+}
+
+button {
+  display: block;
+  margin-top: 10px;
+}
